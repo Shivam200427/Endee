@@ -30,3 +30,12 @@ frontend/*
 
 # DS Store
 .DS_Store
+
+# Environment files with secrets
+.env
+semantic-search/.env
+
+# Python cache
+__pycache__/
+semantic-search/__pycache__/
+*.pyc
